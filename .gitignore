@@ -1,0 +1,14 @@
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local runtime files
+_Agent Logs/
+nul
+tmpclaude-*
