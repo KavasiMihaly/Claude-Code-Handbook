@@ -41,6 +41,7 @@ Each topic has two files:
 | Doc | What's in it |
 |---|---|
 | [`claude-code-commands-and-settings.md`](claude-code-commands-and-settings.md) | The slash commands worth knowing (`/context`, `/compact`, `/agents`, `/permissions`…), the `settings.json` precedence hierarchy, how to wire up MCP servers, plugin config & control (`enabledPlugins`, `pluginConfigs`, marketplace allow/deny lists), and the config keys that have no UI (permissions, hooks, env, statusLine) |
+| [`claude-code-vs-github-copilot.md`](claude-code-vs-github-copilot.md) | Primitive-by-primitive mapping of Claude Code (agents, skills, hooks, plugins, MCP, memory, CLI) to GitHub Copilot equivalents — names, functionality, and exact file formats, including where Copilot reads Claude Code's own files |
 
 ### Templates
 
