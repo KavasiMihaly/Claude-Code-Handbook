@@ -36,6 +36,12 @@ Each topic has two files:
 | [`claude-code-hooks-best-practices.md`](claude-code-hooks-best-practices.md) | Plugin-level hooks, event selection, observability, atomic-Bash rule, hook design pitfalls |
 | [`claude-code-plugin-best-practices.md`](claude-code-plugin-best-practices.md) | 16 anti-patterns from real plugin work, verbatim quote library, community video references, audit gates |
 
+### Quick reference
+
+| Doc | What's in it |
+|---|---|
+| [`claude-code-commands-and-settings.md`](claude-code-commands-and-settings.md) | The slash commands worth knowing (`/context`, `/compact`, `/agents`, `/permissions`…), the `settings.json` precedence hierarchy, how to wire up MCP servers, plugin config & control (`enabledPlugins`, `pluginConfigs`, marketplace allow/deny lists), and the config keys that have no UI (permissions, hooks, env, statusLine) |
+
 ### Templates
 
 | File | What it is |
